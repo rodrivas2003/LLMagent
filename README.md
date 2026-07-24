@@ -1,2 +1,2 @@
-# LLM-agent-1
+# LLMagent
 Zoomcamp course
